@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Features from '../blogComponents/Features'
-import Testimonials from '../blogComponents/Testimonials'
-import Pricing from '../blogComponents/Pricing'
+import Features from '../components/Features'
+import Testimonials from '../components/Testimonials'
+import Pricing from '../components/Pricing'
 
 export const ProductPageTemplate = ({
   image,
